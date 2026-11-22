@@ -12,6 +12,7 @@ A 2025 study by the Cardiac Arrest Registry to Enhance Survival (CARES) investig
 
 We think high-speed drones are the golden ticket for this problem. The record for the fastest groundspeed by a quadcopter was recently broken in December 2025, now standing at an impressive 657.59 km/h. To put that into perspective, the drone could cross London in under 5 minutes. A feat that takes closer to an hour by car. Though that speed mightn't be realistic for our medical drone, it serves to prove a point. There is a clear inefficiency when it comes to emergency medical response. A challenge the MediDrone team is ecstatic to take on
 
+# The Plan :
 -> High-speed AED delivery by drone <br>
 -> Fast application by bystanders before Ambulance arrival <br>
 -> Student-led project originating from the Technical University of Delft. <br>
